@@ -58,9 +58,11 @@ button{
 .share-btn {
     padding: 10px;
 }
+/* icon */
 .fa-brands {
     margin : 5px;
 }
+/* Hover effect on btn*/
 .share-btn:hover{
     color: #0a0808;
     background: green;
@@ -78,6 +80,7 @@ button{
     font-size: 20px;
     font-weight: bolder;
 }
+/* Author Name and Quotes  */
 .quote {
     color : rgb(27, 27, 230);
     font-size: larger;
