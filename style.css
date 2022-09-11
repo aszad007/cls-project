@@ -55,8 +55,13 @@ button{
     font-weight: bolder;
 }
 .quote {
-    color : rgb(3, 3, 35);
+    color : rgb(27, 27, 230);
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
 }
 .author { 
-    color : rgb(72, 3, 3)
+    color : rgb(72, 3, 3);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
 }
