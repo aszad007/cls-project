@@ -1,94 +1,94 @@
 /* Body Part */
-body{
-    background: rgb(4, 134, 154)
-  }
+body {
+  background: rgb(4, 134, 154);
+}
 /* Container */
 
-  .container{
-      width: 1280px;
-      margin: auto;
-  }
-  /* Main Part */
-  .quotes-container{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      height: 100vh;
-  }
-  .inner-quotes-container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    width: 900px;
-    text-align: center;
-    min-height: 400px;
-    padding: 0px 25px;
-    color: rgb(246, 225, 225);
-    border-radius: 10px;
-    background-color: #f4edea;
-    border-left: 10px solid black;
-    border-right: 10px solid blue;
-    border-bottom: 10px solid red;
-    border-top: 10px solid green;
-    box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.9);
+.container {
+  width: 1280px;
+  margin: auto;
+}
+/* Main Part */
+.quotes-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.inner-quotes-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 900px;
+  text-align: center;
+  min-height: 400px;
+  padding: 0px 25px;
+  color: rgb(246, 225, 225);
+  border-radius: 10px;
+  background-color: #f4edea;
+  border-left: 10px solid black;
+  border-right: 10px solid blue;
+  border-bottom: 10px solid red;
+  border-top: 10px solid green;
+  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.9);
 }
 /* Button */
-button{
-    background: #534aa5;
-    color: white;
-    border: 3px solid #ea4a4a;
-    padding: 10px;
-    outline: none;
-    font-weight: bolder;
-    font-size: 20px;
+button {
+  background: #534aa5;
+  color: white;
+  border: 3px solid #ea4a4a;
+  padding: 10px;
+  outline: none;
+  font-weight: bolder;
+  font-size: 20px;
 }
 
 .share-btn {
-    background: #534aa5;
-    color: white;
-    border: 3px solid #ea4a4a;
-    padding: 10px;
-    outline: none;
-    font-weight: bolder;
-    font-size: 20px;
-    text-decoration: none;
+  background: #534aa5;
+  color: white;
+  border: 3px solid #ea4a4a;
+  padding: 10px;
+  outline: none;
+  font-weight: bolder;
+  font-size: 20px;
+  text-decoration: none;
 }
 .share-btn {
-    padding: 10px;
+  padding: 10px;
 }
 /* icon */
 .fa-brands {
-    margin : 5px;
+  margin: 5px;
 }
 /* Hover effect on btn*/
-.share-btn:hover{
-    color: #0a0808;
-    background: green;
-    font-family:'Times New Roman', Times, serif;
-    font-size: 20px;
-    font-weight: bolder;
+.share-btn:hover {
+  color: #0a0808;
+  background: green;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bolder;
 }
-.quote-btn{
-    padding-top: 35px;
+.quote-btn {
+  padding-top: 35px;
 }
- button:hover{
-    color: #0a0808;
-    background: green;
-    font-family:'Times New Roman', Times, serif;
-    font-size: 20px;
-    font-weight: bolder;
+button:hover {
+  color: #0a0808;
+  background: green;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bolder;
 }
 /* Author Name and Quotes  */
 .quote {
-    color : rgb(27, 27, 230);
-    font-size: larger;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bolder;
+  color: rgb(27, 27, 230);
+  font-size: larger;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bolder;
 }
-.author { 
-    color : rgb(72, 3, 3);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
+.author {
+  color: rgb(72, 3, 3);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
 }
