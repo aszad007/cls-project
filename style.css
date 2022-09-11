@@ -54,3 +54,9 @@ button{
     font-size: 20px;
     font-weight: bolder;
 }
+.quote {
+    color : rgb(3, 3, 35);
+}
+.author { 
+    color : rgb(72, 3, 3)
+}
